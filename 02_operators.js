@@ -39,4 +39,4 @@ if (5!=4){
     console.log(`condition is true`)
 }
 
-console.log( 5>0 ? 'positive' : 'negative')
+console.log( var1===0 ? 'zero' : var1 > 0 ? 'positive' : 'negative')
